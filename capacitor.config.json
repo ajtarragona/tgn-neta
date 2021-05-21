@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "TGN Neta",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "TGN Neta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "35a3da1d"
+}
